@@ -26,8 +26,7 @@ Minified tag script is in `dist/meet.js`
     <meet me="about" size="150"></meet>
 
 
-<meet me="about" size="150"></meet>
-<script src="./dist/meet.js" charset="utf-8"></script>
+[Demo](https://bestguy.github.io/riotjs-webpack-example/)
     
 ----
 
